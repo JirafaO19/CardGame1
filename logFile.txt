@@ -1,0 +1,544 @@
+random card 1: 7
+random card 2: 9
+random card 3: 6
+random card 4: 6
+entered expression: null= 
+match expression false
+total time is: 0 seconds
+random card 1: 1
+random card 2: 2
+random card 3: 8
+random card 4: 7
+entered expression: null= 
+match expression false
+total time is: 0 seconds
+random card 1: 2
+random card 2: 7
+random card 3: 4
+random card 4: 13
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 8
+random card 2: 5
+random card 3: 8
+random card 4: 3
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 6
+random card 2: 4
+random card 3: 7
+random card 4: 13
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 10
+random card 2: 4
+random card 3: 3
+random card 4: 6
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 7
+random card 2: 1
+random card 3: 6
+random card 4: 13
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 10
+random card 2: 9
+random card 3: 2
+random card 4: 7
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 5
+random card 2: 10
+random card 3: 10
+random card 4: 5
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 5
+random card 2: 3
+random card 3: 6
+random card 4: 10
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 3
+random card 2: 1
+random card 3: 13
+random card 4: 12
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 3
+random card 2: 10
+random card 3: 10
+random card 4: 1
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 4
+random card 2: 8
+random card 3: 11
+random card 4: 13
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 2
+random card 2: 10
+random card 3: 8
+random card 4: 2
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 1
+random card 2: 9
+random card 3: 3
+random card 4: 9
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 3
+random card 2: 12
+random card 3: 4
+random card 4: 2
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 3
+random card 2: 12
+random card 3: 4
+random card 4: 2
+entered expression: 3*((12+4)/2)= 
+match expression true
+total time is: 1558649007 seconds
+random card 1: 3
+random card 2: 12
+random card 3: 4
+random card 4: 2
+entered expression: 3/((12+4)*2)= 
+match expression true
+total time is: 1558649007 seconds
+random card 1: 3
+random card 2: 12
+random card 3: 4
+random card 4: 2
+entered expression: 3/((12+4)*2)= 
+match expression true
+total time is: 1558649007 seconds
+random card 1: 3
+random card 2: 12
+random card 3: 4
+random card 4: 2
+entered expression: 3*((12+4)/2)= 
+match expression true
+total time is: 1558649050 seconds
+random card 1: 7
+random card 2: 7
+random card 3: 13
+random card 4: 8
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 8
+random card 2: 3
+random card 3: 6
+random card 4: 9
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 9
+random card 2: 5
+random card 3: 5
+random card 4: 8
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 9
+random card 2: 5
+random card 3: 5
+random card 4: 8
+entered expression: 9-(5*5-8)= 
+match expression true
+total time is: 1558651849 seconds
+random card 1: 10
+random card 2: 1
+random card 3: 9
+random card 4: 2
+entered expression: 9-(5*5-8)= 
+match expression true
+total time is: 1558651849 seconds
+random card 1: 1
+random card 2: 5
+random card 3: 9
+random card 4: 2
+entered expression: 9-(5*5-8)= 
+match expression true
+total time is: 1558651849 seconds
+random card 1: 6
+random card 2: 10
+random card 3: 4
+random card 4: 7
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 6
+random card 2: 10
+random card 3: 4
+random card 4: 7
+entered expression: 6-(10-4*7)= 
+match expression true
+total time is: 1558652218 seconds
+random card 1: 6
+random card 2: 10
+random card 3: 4
+random card 4: 7
+entered expression: 6-(10-4*1)= 
+match expression true
+total time is: -4 seconds
+random card 1: 11
+random card 2: 5
+random card 3: 10
+random card 4: 11
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 3
+random card 2: 11
+random card 3: 3
+random card 4: 8
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 8
+random card 2: 8
+random card 3: 11
+random card 4: 9
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 11
+random card 2: 1
+random card 3: 12
+random card 4: 12
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 11
+random card 2: 13
+random card 3: 4
+random card 4: 9
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 1
+random card 2: 11
+random card 3: 8
+random card 4: 13
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 10
+random card 2: 4
+random card 3: 9
+random card 4: 1
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 8
+random card 2: 6
+random card 3: 8
+random card 4: 1
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 6
+random card 2: 11
+random card 3: 9
+random card 4: 2
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 5
+random card 2: 10
+random card 3: 4
+random card 4: 8
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 10
+random card 2: 1
+random card 3: 2
+random card 4: 12
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 7
+random card 2: 11
+random card 3: 13
+random card 4: 10
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 9
+random card 2: 10
+random card 3: 8
+random card 4: 3
+entered expression: = 
+match expression false
+total time is: 0 seconds
+random card 1: 9
+random card 2: 4
+random card 3: 13
+random card 4: 6
+entered expression: 9-((4-13)-6)= 
+match expression true
+total time is: 20 seconds
+random card 1: 6
+random card 2: 8
+random card 3: 11
+random card 4: 7
+entered expression: 6*(8-11-7= 
+match expression true
+total time is: 21 seconds
+*****************Start********************
+random card 1: 7
+random card 2: 8
+random card 3: 3
+random card 4: 6
+entered expression: 7+((8+3)+6)= 
+match expression true
+total time is: 12 seconds
+*******************End******************
+*****************Start********************
+random card 1: 6
+random card 2: 12
+random card 3: 4
+random card 4: 2
+entered expression: 6*(12-4*1)= 
+match expression true
+total time is: 17 seconds
+*******************End******************
+*****************Start********************
+random card 1: 10
+random card 2: 7
+random card 3: 7
+random card 4: 9
+entered expression: 10-(7*7-9)= 
+match expression true
+total time is: 90 seconds
+*******************End******************
+*****************Start********************
+random card 1: 10
+random card 2: 7
+random card 3: 7
+random card 4: 9
+entered expression: 10-(7*7-6)= 
+match expression false
+total time is: 122 seconds
+*******************End******************
+*****************Start********************
+random card 1: 7
+random card 2: 4
+random card 3: 8
+random card 4: 10
+entered expression: (7/(4/8))+10= 
+match expression true
+total time is: 1 min -7.0 seconds
+total time is: 67 seconds
+*******************End******************
+*****************Start********************
+random card 1: 7
+random card 2: 12
+random card 3: 12
+random card 4: 4
+entered expression: (7-(12/12))*4= 
+match expression true
+total time is: 10 seconds
+*******************End******************
+*****************Start********************
+random card 1: 3
+random card 2: 2
+random card 3: 5
+random card 4: 13
+entered expression: (3*2)+(5+13)= 
+match expression true
+total time is: 2 min 2.0 seconds
+total time is: 122 seconds
+*******************End******************
+*****************Start********************
+random card 1: 10
+random card 2: 6
+random card 3: 3
+random card 4: 7
+entered expression: 10+((6/3)*7)= 
+match expression true
+total time is: 1 min 24.0 seconds
+total time is: 84 seconds
+*******************End******************
+*****************Start********************
+random card 1: 8
+random card 2: 8
+random card 3: 6
+random card 4: 1
+entered expression: 8*(8-6-1)= 
+match expression true
+total time is: 1 min 30 seconds
+total time is: 90 seconds
+*******************End******************
+*****************Start********************
+random card 1: 2
+random card 2: 7
+random card 3: 12
+random card 4: 7
+entered expression: 2*((7*12)/7)= 
+match expression true
+total time is: 13 seconds
+*******************End******************
+*****************Start********************
+random card 1: 3
+random card 2: 2
+random card 3: 7
+random card 4: 9
+entered expression: (3/2)*(7+9)= 
+match expression true
+total time is: 22 seconds
+*******************End******************
+*****************Start********************
+random card 1: 0
+random card 2: 0
+random card 3: 0
+random card 4: 0
+entered expression: = 
+match expression false
+total time is: 25977765 min 50 seconds
+total time is: 1558665950 seconds
+*******************End******************
+*****************Start********************
+random card 1: 10
+random card 2: 3
+random card 3: 2
+random card 4: 9
+entered expression: = 
+match expression false
+total time is: 12 seconds
+*******************End******************
+*****************Start********************
+random card 1: 10
+random card 2: 3
+random card 3: 2
+random card 4: 9
+entered expression: Enter expression here= 
+match expression false
+total time is: 4 min 42 seconds
+total time is: 282 seconds
+*******************End******************
+*****************Start********************
+random card 1: 10
+random card 2: 3
+random card 3: 2
+random card 4: 9
+entered expression: Enter expression here= 
+match expression false
+total time is: 4 min 53 seconds
+total time is: 293 seconds
+*******************End******************
+*****************Start********************
+random card 1: 0
+random card 2: 0
+random card 3: 0
+random card 4: 0
+entered expression: = 
+match expression false
+total time is: 25977773 min 47 seconds
+total time is: 1558666427 seconds
+*******************End******************
+*****************Start********************
+random card 1: 4
+random card 2: 12
+random card 3: 4
+random card 4: 6
+entered expression: (4*12)-(4*6= 
+match expression true
+total time is: 24 seconds
+*******************End******************
+*****************Start********************
+random card 1: 8
+random card 2: 9
+random card 3: 5
+random card 4: 12
+entered expression: (8/(9-5)*12= 
+match expression false
+total time is: 42 seconds
+*******************End******************
+*****************Start********************
+random card 1: 4
+random card 2: 5
+random card 3: 3
+random card 4: 12
+entered expression: (4/(5-3)*12= 
+match expression false
+total time is: 29 seconds
+*******************End******************
+*****************Start********************
+random card 1: 4
+random card 2: 5
+random card 3: 3
+random card 4: 12
+entered expression: (4/(5-3))*11= 
+match expression false
+total time is: 1 min 55 seconds
+total time is: 115 seconds
+*******************End******************
+*****************Start********************
+random card 1: 4
+random card 2: 5
+random card 3: 3
+random card 4: 12
+entered expression: (4/(5-3))*11= 
+match expression false
+total time is: 2 min 19 seconds
+total time is: 139 seconds
+*******************End******************
+*****************Start********************
+random card 1: 10
+random card 2: 9
+random card 3: 11
+random card 4: 2
+entered expression: (10-(9-11))*2= 
+match expression true
+total time is: 47 seconds
+*******************End******************
+*****************Start********************
+random card 1: 11
+random card 2: 3
+random card 3: 6
+random card 4: 10
+entered expression: 11-((3-6)-10)= 
+match expression true
+total time is: 24 seconds
+*******************End******************
+*****************Start********************
+random card 1: 6
+random card 2: 6
+random card 3: 12
+random card 4: 3
+entered expression: 6-((6-12)*3)= 
+match expression true
+total time is: 1 min 6 seconds
+total time is: 66 seconds
+*******************End******************
+*****************Start********************
+random card 1: 1
+random card 2: 6
+random card 3: 6
+random card 4: 12
+entered expression: 1*((6*6)-12)= 
+match expression true
+total time is: 21 seconds
+*******************End******************
